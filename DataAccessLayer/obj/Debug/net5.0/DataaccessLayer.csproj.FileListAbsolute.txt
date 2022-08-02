@@ -1,0 +1,15 @@
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\bin\Debug\net5.0\DataaccessLayer.deps.json
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\bin\Debug\net5.0\DataaccessLayer.dll
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\bin\Debug\net5.0\DataaccessLayer.pdb
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.csproj.AssemblyReference.cache
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.AssemblyInfoInputs.cache
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.AssemblyInfo.cs
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.csproj.CopyComplete
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.dll
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\refint\DataaccessLayer.dll
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\DataaccessLayer.pdb
+C:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\DataAccessLayer\obj\Debug\net5.0\ref\DataaccessLayer.dll

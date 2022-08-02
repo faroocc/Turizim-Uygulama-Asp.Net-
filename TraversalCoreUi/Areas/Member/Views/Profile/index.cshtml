@@ -1,0 +1,35 @@
+@model TraversalCoreUi.Areas.Member.Models.UserEditProfile
+@{
+    Layout="~/Views/Shared/_UserLayout.cshtml";
+}
+<h3>Profil Düzenleme</h3>
+
+<form action="" method="post" enctype="multipart/form-data">
+    @Html.Label("adınız")
+    <input type="text" asp-for="Name" class="form-control" />
+    <br/>
+    @Html.Label("Soyadınız")
+    <input type="text" asp-for="Surname" class="form-control" />
+    <br/>
+    @Html.Label("Mail")
+    <input type="text" asp-for="Mail" class="form-control" />
+    <br/>
+    @Html.Label("Parola")
+    <input type="text" asp-for="password" class="form-control" />
+    <br/>
+    @Html.Label("Parola Tekrar")
+    <input type="text" asp-for="confirmpassword" class="form-control" />
+    <br/>
+    @Html.Label("Telefon Numarası")
+    <input type="text" asp-for="phonenumber" class="form-control" />
+    <br/>
+    @Html.Label("Resim Yolu")
+    <input type="text" asp-for="imageUrl" class="form-control" />
+    <br/>
+    <div class="form-group">
+        <label for="">Resim Seçin</label>
+        <input type="file" asp-for="imageUrl">
+    </div>
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+
+</form>

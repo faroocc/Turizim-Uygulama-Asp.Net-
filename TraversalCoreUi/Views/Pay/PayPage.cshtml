@@ -1,0 +1,42 @@
+
+@{
+    ViewData["Title"]="About";
+    Layout="~/Views/Shared/_UILayout.cshtml";
+}
+
+
+      
+ @model EntityLayer.Concrete.Pay
+  @using (Html.BeginForm("PayPage","Pay",FormMethod.Post))
+          {
+            <div class="row " style="font-weight:800;padding:20px;margin-top: 110px !important;box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;">
+            <div class="col-lg-6">
+                @Html.Label("Adınız")
+                @Html.TextBoxFor(x => x.PayName, new {@class ="form-control"})
+                <br>
+                @Html.Label("Soyadınız")
+                @Html.TextBoxFor(x => x.PaySurname, new {@class ="form-control"})
+            
+                <br>
+                @Html.Label("Gitmek İstediğiniz Gezi")        
+                @Html.DropDownListFor(x=> x.DestinationID,(List<SelectListItem>)ViewBag.cv,new{@class ="form-control"})
+             </div>
+             <div class="col-6">
+               
+                @Html.Label("Kredi Kartı Numara")
+                @Html.TextBoxFor(x => x.PayCreditNumber, new {@class ="form-control"})
+                
+                <br>
+                @Html.Label("Kredi Kartı Son Kullanma Tarihi")
+                @Html.TextBoxFor(x => x.PayCreditDate, new {@class ="form-control"})
+                <br>
+                @Html.Label("Kredi Kartı Cvc")
+                @Html.TextBoxFor(x => x.PayCvc, new {@class ="form-control"})
+            
+            </div>
+            <div></div>
+            <div class="d-lg-block d-none mt-2 text-center col-12 mt-5">
+               <button class="btn btn-style btn-secondary">Gönder</button>
+           </div>
+            </div>
+          }

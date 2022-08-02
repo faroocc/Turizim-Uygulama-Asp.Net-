@@ -1,0 +1,184 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = TraversalCoreUi
+build_property.RootNamespace = TraversalCoreUi
+build_property.ProjectDir = c:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\TraversalCoreUi\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = c:\Users\Ali\Desktop\RoLifeMap\Asp.Net\TraversalCoreProje\TraversalCoreUi
+build_property._RazorSourceGeneratorDebug = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Comment/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXENvbW1lbnRcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Profile/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFByb2ZpbGVcaW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Rezervation/MyApporovalRezervation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlemVydmF0aW9uXE15QXBwb3JvdmFsUmV6ZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Rezervation/MyCurrentRezervation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlemVydmF0aW9uXE15Q3VycmVudFJlemVydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Rezervation/MyOldRezervation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlemVydmF0aW9uXE15T2xkUmV6ZXJ2YXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/Rezervation/NewRezervation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXFJlemVydmF0aW9uXE5ld1JlemVydmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Areas/Member/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWVtYmVyXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/About/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Comment/CommentPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Contact/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Default/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVmYXVsdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Destination/DestinationDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cRGVzdGluYXRpb25EZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Destination/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzdGluYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/LayoutPartial/_FooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfRm9vdGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/LayoutPartial/_headerPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfaGVhZGVyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/LayoutPartial/_navbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfbmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/LayoutPartial/_scriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGF5b3V0UGFydGlhbFxfc2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/MemberLayoutPartial/_headPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfaGVhZFBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/MemberLayoutPartial/_navbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfbmF2YmFyUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/MemberLayoutPartial/_sagNavPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfc2FnTmF2UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/MemberLayoutPartial/_scriptPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfc2NyaXB0UGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/MemberLayoutPartial/_yanNavbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVtYmVyTGF5b3V0UGFydGlhbFxfeWFuTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Packeges/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFja2VnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Pay/PayPage.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF5XFBheVBhZ2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Register/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_CommentList/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0NvbW1lbnRMaXN0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_FeaturePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0ZlYXR1cmVQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_PayPagePartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BheVBhZ2VQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_PopularDestinationsPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1BvcHVsYXJEZXN0aW5hdGlvbnNQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_SliderPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1NsaWRlclBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_Statics/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N0YXRpY3NcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_SubAbout/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1N1YkFib3V0XERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/Components/_Testiminoal/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX1Rlc3RpbWlub2FsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/_UILayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9VSUxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/_UserLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Vc2VyTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/Ali/Desktop/RoLifeMap/Asp.Net/TraversalCoreProje/TraversalCoreUi/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
